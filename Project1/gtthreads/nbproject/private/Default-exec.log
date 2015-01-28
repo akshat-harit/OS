@@ -1,0 +1,56 @@
+called: gcc
+	/home/akshat/Code/OS/gtthreads
+	gcc
+	-g
+	-c
+	src/gt_kthread.c
+	-o
+	src/gt_kthread.o
+
+called: gcc
+	/home/akshat/Code/OS/gtthreads
+	gcc
+	-g
+	-c
+	src/gt_uthread.c
+	-o
+	src/gt_uthread.o
+
+called: gcc
+	/home/akshat/Code/OS/gtthreads
+	gcc
+	-g
+	-c
+	src/gt_pq.c
+	-o
+	src/gt_pq.o
+
+called: gcc
+	/home/akshat/Code/OS/gtthreads
+	gcc
+	-g
+	-c
+	src/gt_signal.c
+	-o
+	src/gt_signal.o
+
+called: gcc
+	/home/akshat/Code/OS/gtthreads
+	gcc
+	-g
+	-c
+	src/gt_spinlock.c
+	-o
+	src/gt_spinlock.o
+
+called: ar
+	/home/akshat/Code/OS/gtthreads
+	ar
+	rcs
+	bin/libuthread.a
+	src/gt_kthread.o
+	src/gt_uthread.o
+	src/gt_pq.o
+	src/gt_signal.o
+	src/gt_spinlock.o
+

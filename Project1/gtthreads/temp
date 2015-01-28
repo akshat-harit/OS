@@ -1,0 +1,191 @@
+Matrix size=32, Credits=25
+Mean = 2149.375000, Stddev=1554.409697
+Time for a thread = 887.000000
+Time for a thread = 997.000000
+Time for a thread = 1601.000000
+Time for a thread = 1905.000000
+Time for a thread = 2311.000000
+Time for a thread = 2827.000000
+Time for a thread = 2994.000000
+Time for a thread = 3673.000000
+
+
+Matrix size=32, Credits=50
+Mean = 5551.875000, Stddev=3945.954264
+Time for a thread = 3687.000000
+Time for a thread = 4574.000000
+Time for a thread = 4748.000000
+Time for a thread = 5465.000000
+Time for a thread = 5643.000000
+Time for a thread = 6348.000000
+Time for a thread = 6534.000000
+Time for a thread = 7416.000000
+
+
+Matrix size=32, Credits=75
+Mean = 9078.500000, Stddev=6431.437184
+Time for a thread = 7232.000000
+Time for a thread = 8112.000000
+Time for a thread = 8296.000000
+Time for a thread = 9000.000000
+Time for a thread = 9189.000000
+Time for a thread = 9864.000000
+Time for a thread = 10024.000000
+Time for a thread = 10911.000000
+
+
+Matrix size=32, Credits=100
+Mean = 15400.875000, Stddev=10959.417214
+Time for a thread = 10748.000000
+Time for a thread = 11627.000000
+Time for a thread = 12528.000000
+Time for a thread = 13415.000000
+Time for a thread = 17254.000000
+Time for a thread = 18239.000000
+Time for a thread = 19211.000000
+Time for a thread = 20185.000000
+
+
+Matrix size=64, Credits=25
+Mean = 36838.750000, Stddev=26286.826741
+Time for a thread = 20245.000000
+Time for a thread = 27116.000000
+Time for a thread = 32566.000000
+Time for a thread = 34009.000000
+Time for a thread = 39708.000000
+Time for a thread = 40865.000000
+Time for a thread = 46601.000000
+Time for a thread = 53600.000000
+
+
+Matrix size=64, Credits=50
+Mean = 80330.000000, Stddev=57754.989435
+Time for a thread = 47705.000000
+Time for a thread = 54557.000000
+Time for a thread = 63586.000000
+Time for a thread = 70463.000000
+Time for a thread = 70658.000000
+Time for a thread = 77269.000000
+Time for a thread = 128259.000000
+Time for a thread = 130143.000000
+
+
+Matrix size=64, Credits=75
+Mean = 90567.875000, Stddev=64100.429047
+Time for a thread = 77503.000000
+Time for a thread = 84095.000000
+Time for a thread = 84381.000000
+Time for a thread = 90549.000000
+Time for a thread = 91225.000000
+Time for a thread = 95904.000000
+Time for a thread = 98069.000000
+Time for a thread = 102817.000000
+
+
+Matrix size=64, Credits=100
+Mean = 117086.000000, Stddev=82834.904702
+Time for a thread = 104918.000000
+Time for a thread = 109556.000000
+Time for a thread = 111681.000000
+Time for a thread = 116379.000000
+Time for a thread = 118511.000000
+Time for a thread = 122241.000000
+Time for a thread = 125361.000000
+Time for a thread = 128041.000000
+
+
+Matrix size=96, Credits=25
+Mean = 1785934.500000, Stddev=729679.489758
+Time for a thread = 50829.000000
+Time for a thread = 57294.000000
+Time for a thread = 107375.000000
+Time for a thread = 129824.000000
+Time for a thread = 152161.000000
+Time for a thread = 4249899.000000
+Time for a thread = 4264566.000000
+Time for a thread = 5275528.000000
+
+
+Matrix size=96, Credits=50
+Mean = 826457.125000, Stddev=528256.162737
+Time for a thread = 197317.000000
+Time for a thread = 198103.000000
+Time for a thread = 236114.000000
+Time for a thread = 237314.000000
+Time for a thread = 297794.000000
+Time for a thread = 575375.000000
+Time for a thread = 577306.000000
+Time for a thread = 4292334.000000
+
+
+Matrix size=96, Credits=75
+Mean = 424601.500000, Stddev=302615.847669
+Time for a thread = 297349.000000
+Time for a thread = 336347.000000
+Time for a thread = 337240.000000
+Time for a thread = 398076.000000
+Time for a thread = 398756.000000
+Time for a thread = 437646.000000
+Time for a thread = 592866.000000
+Time for a thread = 598532.000000
+
+
+Matrix size=96, Credits=100
+Mean = 548184.750000, Stddev=388350.915110
+Time for a thread = 437512.000000
+Time for a thread = 497124.000000
+Time for a thread = 499445.000000
+Time for a thread = 536057.000000
+Time for a thread = 538690.000000
+Time for a thread = 610883.000000
+Time for a thread = 620722.000000
+Time for a thread = 645045.000000
+
+
+Matrix size=128, Credits=25
+Mean = 5805890.750000, Stddev=570560.225671
+Time for a thread = 5708382.000000
+Time for a thread = 5733821.000000
+Time for a thread = 5758651.000000
+Time for a thread = 5770048.000000
+Time for a thread = 5776217.000000
+Time for a thread = 5850915.000000
+Time for a thread = 5889239.000000
+Time for a thread = 5959853.000000
+
+
+Matrix size=128, Credits=50
+Mean = 5235643.000000, Stddev=174407.521763
+Time for a thread = 5118668.000000
+Time for a thread = 5153397.000000
+Time for a thread = 5156914.000000
+Time for a thread = 5162842.000000
+Time for a thread = 5207403.000000
+Time for a thread = 5228010.000000
+Time for a thread = 5252424.000000
+Time for a thread = 5605486.000000
+
+
+Matrix size=128, Credits=75
+Mean = 5115385.125000, Stddev=276668.505169
+Time for a thread = 4991990.000000
+Time for a thread = 5049514.000000
+Time for a thread = 5070582.000000
+Time for a thread = 5106090.000000
+Time for a thread = 5130387.000000
+Time for a thread = 5154321.000000
+Time for a thread = 5178252.000000
+Time for a thread = 5241945.000000
+
+
+Matrix size=128, Credits=100
+Mean = 4217098.500000, Stddev=153784.538618
+Time for a thread = 4185164.000000
+Time for a thread = 4195308.000000
+Time for a thread = 4200514.000000
+Time for a thread = 4203333.000000
+Time for a thread = 4214288.000000
+Time for a thread = 4224876.000000
+Time for a thread = 4246481.000000
+Time for a thread = 4266824.000000
+

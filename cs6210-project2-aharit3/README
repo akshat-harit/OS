@@ -1,0 +1,12 @@
+To compile use :			make
+To run the server: 			./bin/server
+To run the client: 			./bin/client
+To clean up the binaries after use : 	make clean
+Number of process and threads can be modified using the file shm-02.h
+
+
+NOTE:Default behavior is to remove the library.o file after compilation of server and client. Please edit the Makefile to change the behavior
+
+Authors
+Akshat Harit
+Nidish Nair

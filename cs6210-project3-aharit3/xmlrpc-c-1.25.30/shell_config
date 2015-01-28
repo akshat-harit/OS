@@ -1,0 +1,29 @@
+#
+#######################################################
+# From 'shell_config'
+#######################################################
+ENABLE_ABYSS_THREADS="yes"
+ENABLE_LIBXML2_BACKEND="no"
+MUST_BUILD_WININET_CLIENT="no"
+MUST_BUILD_CURL_CLIENT="yes"
+MUST_BUILD_LIBWWW_CLIENT="no"
+NEED_RPATH="no"
+NEED_WL_RPATH="no"
+LIBXMLRPCPP_NAME="xmlrpc++"
+LSOCKET=""
+WININET_LDADD=""
+WININET_LIBDIR=""
+CURL_LDADD="-lcurl"
+CURL_LIBDIR="/usr/lib"
+LIBWWW_LDADD=""
+LIBWWW_LIBDIR=""
+XMLRPC_MAJOR_RELEASE="1"
+XMLRPC_MINOR_RELEASE="25"
+XMLRPC_POINT_RELEASE="30"
+FEATURE_LIST="c++ abyss-server curl-client "
+PREFIX="/home/akshat/lala"
+HEADERINST_DIR="/home/akshat/lala/include"
+LIBINST_DIR="/home/akshat/lala/lib"
+BLDDIR="/home/akshat/Code/OS/PJ3/xmlrpc-c-1.25.30/xmlrpc-c-1.25.30"
+ABS_SRCDIR="/home/akshat/Code/OS/PJ3/xmlrpc-c-1.25.30/xmlrpc-c-1.25.30"
+#######################################################

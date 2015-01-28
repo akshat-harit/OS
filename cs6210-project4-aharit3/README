@@ -1,0 +1,21 @@
+#Compilation instructions to generate static library librvm.a
+To compile all test cases along with librvm.a
+make 
+For librvm compilation
+make rvm
+Otherwise for each test case, individual make flag is there
+make
+	basic 
+	multi 
+	abort 
+	multi-abort 
+	truncate 
+	basic_int 
+	truncate_test 
+	automatic_truncate 
+	map_size
+
+
+To clean up the log files, segment files and binary files along with librvm.a
+
+make clean

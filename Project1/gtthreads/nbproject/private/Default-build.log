@@ -1,0 +1,14 @@
+gcc -g -c src/gt_kthread.c -o src/gt_kthread.o
+src/gt_kthread.c: In function ‘kthread_init’:
+src/gt_kthread.c:118:2: warning: passing argument 3 of ‘sched_setaffinity’ from incompatible pointer type
+  sched_setaffinity(k_ctx->tid,sizeof(unsigned long),&cpu_affinity_mask);
+  ^
+In file included from src/gt_kthread.c:8:0:
+/usr/include/sched.h:116:12: note: expected ‘const struct cpu_set_t *’ but argument is of type ‘int *’
+ extern int sched_setaffinity (__pid_t __pid, size_t __cpusetsize,
+            ^
+gcc -g -c src/gt_uthread.c -o src/gt_uthread.o
+gcc -g -c src/gt_pq.c -o src/gt_pq.o
+gcc -g -c src/gt_signal.c -o src/gt_signal.o
+gcc -g -c src/gt_spinlock.c -o src/gt_spinlock.o
+ar rcs bin/libuthread.a src/gt_kthread.o src/gt_uthread.o src/gt_pq.o src/gt_signal.o src/gt_spinlock.o
